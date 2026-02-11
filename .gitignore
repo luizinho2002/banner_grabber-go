@@ -1,0 +1,8 @@
+# Binaries
+*.exe
+*.exe~
+bin/
+
+# Sytem and temporary files
+*:Zone.Identifier
+.DS_Store
