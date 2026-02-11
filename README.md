@@ -8,7 +8,7 @@ A lightweight reconnaissance tool built in **Go** to identify the software and v
 * **Safety Deadlines:** Uses `SetReadDeadline` to prevent the tool from hanging on silent services.
 
 ## 💻 How to Run
-1. Confiugure the `targetIP` and `argetPort` in `main.go`.
+1. Confiugure the `targetIP` and `targetPort` in `main.go`.
 2. Run the tool:
   ```bash
      go run main.go
